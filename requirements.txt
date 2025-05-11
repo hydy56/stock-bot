@@ -8,3 +8,4 @@ requests>=2.26.0
 xlsxwriter>=3.0.0
 streamlit>=1.0
 matplotlib>=3.0
+plotly>=5.0
