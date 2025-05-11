@@ -1,0 +1,4 @@
+# Pliki środowiskowe
+.env
+.env.*
+!.env.example
