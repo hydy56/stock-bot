@@ -6,3 +6,5 @@ scikit-learn>=1.0.0
 joblib>=1.0.0
 requests>=2.26.0
 xlsxwriter>=3.0.0
+streamlit>=1.0
+matplotlib>=3.0
